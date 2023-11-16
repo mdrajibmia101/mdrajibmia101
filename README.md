@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrajibmia101" alt="mdrajibmia101" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/md rajib mia" target="blank"><img src="https://img.shields.io/twitter/follow/md rajib mia?logo=twitter&style=for-the-badge" alt="md rajib mia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajib1612" target="blank"><img src="https://img.shields.io/twitter/follow/rajib1612?logo=twitter&style=for-the-badge" alt="rajib1612" /></a> </p>
 
 - 🔭 I’m currently working on **Research Field**
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/md rajib mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md rajib mia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md rajib mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md rajib mia" height="30" width="40" /></a>
-<a href="https://fb.com/md rajib raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md rajib raj" height="30" width="40" /></a>
+<a href="https://twitter.com/rajib1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajib1612" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdrajibmia101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrajibmia101" height="30" width="40" /></a>
+<a href="https://fb.com/rajibsweeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajibsweeng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
