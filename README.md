@@ -1,42 +1,128 @@
-<h1 align="center">Hi 👋, I'm Md Rajib Mia</h1>
-<h3 align="center">A passionate Data Science from Bangladesh</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f8f8f8; /* Light background color */
+      color: #333; /* Text color */
+      margin: 0;
+      padding: 0;
+    }
 
+    h1, h3 {
+      color: #3498db; /* Blue color for headings */
+    }
 
+    p {
+      margin-bottom: 15px;
+    }
 
-<p align="left" style="background-color: #3498db; display: inline-block; padding: 10px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mdrajibmia101" alt="mdrajibmia101" />
+    .github-profile-section {
+      background-color: #fff; /* White background for the GitHub profile section */
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+      margin-bottom: 20px;
+    }
+
+    .twitter-badge {
+      margin-top: 10px;
+    }
+
+    /* Languages and Tools section */
+    .languages-tools-section {
+      background-color: #fff; /* White background for the Languages and Tools section */
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+      margin-bottom: 20px;
+    }
+
+    /* GitHub stats cards */
+    .github-stats-card {
+      background-color: #fff; /* White background for GitHub stats cards */
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+      margin-bottom: 20px;
+    }
+
+    /* GitHub streak stats */
+    .github-streak-stats {
+      background-color: #fff; /* White background for GitHub streak stats */
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Introduction Section -->
+  <h1 align="center">Hi 👋, I'm Md Rajib Mia</h1>
+  <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+
+  <!-- GitHub Profile Trophy Section -->
+  <div class="github-profile-section">
+    <p align="left">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mdrajibmia101" alt="mdrajibmia101" />
+      </a>
+    </p>
+  </div>
+
+  <!-- Twitter Badge -->
+  <p align="left" class="twitter-badge">
+    <a href="https://twitter.com/rajib1612" target="blank">
+      <img src="https://img.shields.io/twitter/follow/rajib1612?logo=twitter&style=for-the-badge" alt="rajib1612" />
     </a>
   </p>
 
-<p align="left"> <a href="https://twitter.com/rajib1612" target="blank"><img src="https://img.shields.io/twitter/follow/rajib1612?logo=twitter&style=for-the-badge" alt="rajib1612" /></a> </p>
+  <!-- Bio and Contact Information -->
+  <ul>
+    <li>🔭 I’m currently working on <strong>Research Field</strong></li>
+    <li>🌱 I’m currently learning <strong>Bioinformatics</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>Machine Learning</strong></li>
+    <li>🤝 I’m looking for help with <strong>Data Science</strong></li>
+    <li>💬 Ask me about <strong>Research Field, Data Science & ETC</strong></li>
+    <li>📫 How to reach me <strong>rajib.swe@diu.edu.bd</strong></li>
+    <li>⚡ Fun fact: <strong>My Like Awesome</strong></li>
+  </ul>
 
-- 🔭 I’m currently working on **Research Field**
+  <!-- Connect with me section -->
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://twitter.com/rajib1612" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajib1612" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/mdrajibmia101" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrajibmia101" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/rajibsweeng" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajibsweeng" height="30" width="40" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Bioinformatics**
+  <!-- Languages and Tools Section -->
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <!-- Add your tools and languages icons here -->
+  </p>
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+  <!-- GitHub Stats Section -->
+  <div class="github-stats-card">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrajibmia101&show_icons=true&locale=en&layout=compact" alt="mdrajibmia101" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrajibmia101&show_icons=true&locale=en" alt="mdrajibmia101" /></p>
+  </div>
 
-- 🤝 I’m looking for help with **Data Science**
+  <!-- GitHub Streak Stats Section -->
+  <div class="github-streak-stats">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrajibmia101&" alt="mdrajibmia101" /></p>
+  </div>
 
-- 💬 Ask me about **Research Field,Data Science & ETC**
-
-- 📫 How to reach me **rajib.swe@diu.edu.bd**
-
-- ⚡ Fun fact **My Like Awsome**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajib1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajib1612" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdrajibmia101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrajibmia101" height="30" width="40" /></a>
-<a href="https://fb.com/rajibsweeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajibsweeng" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrajibmia101&show_icons=true&locale=en&layout=compact" alt="mdrajibmia101" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrajibmia101&show_icons=true&locale=en" alt="mdrajibmia101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrajibmia101&" alt="mdrajibmia101" /></p>
+</body>
+</html>
