@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Rajib Mia</h1>
 <h3 align="center">A passionate Data Science from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrajibmia101&label=Profile%20views&color=0e75b6&style=flat" alt="mdrajibmia101" /> </p>
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A866%2F1*h1dUrjhkHzMU46jW1cQjAg.gif&tbnid=ZuF2aMVaZPawJM&vet=12ahUKEwin0e3e7MiCAxUJ2zgGHbU1ABwQMygEegQIARBY..i&imgrefurl=https%3A%2F%2Fpemagrg.medium.com%2Fmachine-learning-4a6e54ee68b7&docid=jr5ibVrmk0UkcM&w=433&h=517&q=machine%20learning%20gif%20transparent&hl=en&ved=2ahUKEwin0e3e7MiCAxUJ2zgGHbU1ABwQMygEegQIARBY
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrajibmia101" alt="mdrajibmia101" /></a> </p>
 
